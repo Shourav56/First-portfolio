@@ -24,3 +24,12 @@ section {
 .halfwidth img {
     width: 80%;
 }
+
+.editbutton {
+    text-decoration: none;
+    background-image: linear-gradient(red, orange);
+    color: black;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
